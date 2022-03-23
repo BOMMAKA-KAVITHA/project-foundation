@@ -41,7 +41,7 @@ public class FlipkartView {
 								System.out.println("press 6 to sort profile");
 								System.out.println("enter your choice");
 								 ch=sc.nextInt();
-
+//
 								switch(ch) {
 								case 1:fc.viewprofilecontroller();
 									break;
